@@ -1,2 +1,6 @@
 # ITDEPT-
-Creating project ITept 
+Shopping List 
+Apple 
+mango 
+Banana 
+etc 
